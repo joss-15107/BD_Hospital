@@ -7,8 +7,7 @@
 * **Alumno:** Josue Urbina Huerta
 * **Grupo:** 131
 ---
-## 📘 Descripción del Proyecto   
-
+## 📘 Descripción del Proyecto 
 Este proyecto consiste en una aplicación web funcional desarrollada en **PHP** y conectada a una base de datos relacional en **MySQL/MariaDB** (configurada en el puerto `3307`). El sistema implementa un ciclo completo de operaciones **CRUD** (Create, Read, Update, Delete) para la gestión y administración eficiente del registro de pacientes de una clínica o sanatorio.
 ---
 ## 🗄️ Estructura de la Tabla de Datos (`pacientes`)
