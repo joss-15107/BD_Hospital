@@ -14,6 +14,7 @@ Este proyecto consiste en una aplicación web funcional desarrollada en **PHP** 
 La información se almacena de manera persistente en la tabla `pacientes`, la cual cuenta con los siguientes campos y tipos de datos validados para su correcto funcionamiento:
 
 A## 🗺️ Modelo Relacional de la Base de Datos
+
 ![Modelo Relacional](tabla_hospital.png)
 
 | Campo | Tipo de Datos | Descripción |
